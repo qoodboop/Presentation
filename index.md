@@ -1,5 +1,5 @@
 
-# 👨‍💻 Ammar Diarra — Ingénieur Logiciel | DevOps | Sécurité
+# 👨 Ammar Diarra — Ingénieur Logiciel | DevOps | Sécurité
 
 Bienvenue sur ma page professionnelle ! Je suis **Ammar Diarra**, ingénieur full-stack orienté DevOps, passionné par la cybersécurité, l'automatisation, les infrastructures robustes, et le développement d'applications web et mobile.
 
